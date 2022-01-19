@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jlaudver
+- 👋 Hi, I’m Jelena Laudver
 - 👀 I’m interested in software engineers, data scientists
 - 🌱 I’m currently learning technical competencies for recruiters
 - 💞️ I’m looking to collaborate on available vacancies
