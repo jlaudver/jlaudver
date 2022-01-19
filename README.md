@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jelena Laudver
 - 👀 I’m interested in software engineers, data scientists
-- 🌱 I’m currently learning technical competencies for recruiters
+- 🌱 I’m currently learning advanced sourcing and people assessment techniques
 - 💞️ I’m looking to collaborate on available vacancies
 - 📫 How to reach me jelena@talentlive.ee
 
