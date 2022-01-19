@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineers, data scientists
 - 🌱 I’m currently learning technical competencies for recruiters
 - 💞️ I’m looking to collaborate on available vacancies
-- 📫 How to reach me jelenalaudver@gmail.com
+- 📫 How to reach me jelena@talentlive.ee
 
 <!---
 jlaudver/jlaudver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
